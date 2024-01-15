@@ -16,7 +16,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: Now, I'm looking a new job as React developer.
 
-- :seedling: Learning web-tecnologies.
+- :seedling: Learning web-technologies.
 
 - :zap: In my free time, I create pet-projects and solve tasks on LeetCode.
 
