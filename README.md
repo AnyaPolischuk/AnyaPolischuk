@@ -14,8 +14,6 @@
 ### :woman_technologist: About Me :
 I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Now, I'm looking a new job as React developer.
-
 - :seedling: Learning web-technologies.
 
 - :zap: In my free time, I create pet-projects and solve tasks on LeetCode.
